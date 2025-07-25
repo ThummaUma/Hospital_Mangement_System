@@ -54,7 +54,7 @@ This a software to control all the management related to a hospital , like admit
 ## 🔗 Links
 Client - https://brain-labs.netlify.app/
 
-Server - https://github.com/piyush-agrawal6/HMS-Backend
+Server - https://github.com/ThummaUma/HMS-Backend
 
 ## Features
 
@@ -71,18 +71,4 @@ Server - https://github.com/piyush-agrawal6/HMS-Backend
 1.Dashboard
 
 ![App Screenshot](https://i.ibb.co/1K6N1Hk/21-12-2022-12-45-28-REC.png)
-
-
-## Blog / Presentation
-
-Presentation -
-
-Blog -
-
-
-## Team Members / Contributors
-
-- [@Piyush Agrawal](https://github.com/piyush-agrawal6)
-- [@Udhaya Prakash](https://github.com/udhai-20)
-- [@Rajendra Patel](https://github.com/centauricoder01)
 
