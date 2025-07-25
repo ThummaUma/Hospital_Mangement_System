@@ -31,8 +31,8 @@ const DLogin = () => {
   const [Loading, setLoading] = useState(false);
   const [placement, SetPlacement] = useState("Nurse");
   const [formvalue, setFormvalue] = useState({
-    ID: "",
-    password: "",
+    ID: "100",
+    password: "emergency",
   });
   const dispatch = useDispatch();
 
