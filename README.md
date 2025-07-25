@@ -58,7 +58,7 @@ This a a website, where we can control all the management related to a hospital 
 
 ID - 100
 
-Password - masai
+Password - emergency
 
 ## Features
 
